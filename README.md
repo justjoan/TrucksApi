@@ -1,5 +1,5 @@
 # TrucksApi
-An ASP.NET Core Web API for adding and retrieving food trucks.  
+An ASP.NET Core (5) Web API for adding and retrieving food trucks.  
 
 ## Included
 - TrucksApi.csproj
